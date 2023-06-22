@@ -1,0 +1,9 @@
+
+
+Para criar o arquivo package.json que é o arquivo de configuração do nosso projeto
+é necessário executar o comando no terminal.
+
+
+npm init -y
+
+inserir uma nova propriedade no arquivo gerado, que vai ser ”type”: “module”
